@@ -11,6 +11,9 @@ A simple, serverless task management application built using AWS services and de
 [View the Live Application](http://taskmana.s3-website-us-east-1.amazonaws.com)
 
 ---
+Video Link 
+
+https://drive.google.com/file/d/1_YejsfJulsiKDCXyYPPEKI-d4ScVfBPl/view?usp=sharing
 
 ## ⚙️ Tech Stack & AWS Services Used
 
